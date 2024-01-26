@@ -1,0 +1,36 @@
+.table table{
+
+margin-left: 250px;
+margin-top: 30px;
+background-color:black;
+
+}
+
+.table tr{
+    background-color: aqua;
+    height: 130px;
+    width: 1000px;
+    
+
+}
+
+.table th{
+     background-color: blue;
+    width: 200px;
+    height: 50px;
+    font-size: 25px;
+    
+}
+
+.table h2{
+    margin-top: 50px;
+    margin-left: 600px;
+}
+
+.table td{
+font-weight: bold;
+font-size: 16px;
+text-align: center;
+
+}
+
